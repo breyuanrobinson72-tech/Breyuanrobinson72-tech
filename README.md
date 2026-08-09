@@ -1,4 +1,4 @@
-<h1>Hi, I'm BReyuan, an <a href="https://www.linkedin.com/in/breyuan-robinson-9a158828b/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Breyuan, an <a href="https://www.linkedin.com/in/breyuan-robinson-9a158828b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
