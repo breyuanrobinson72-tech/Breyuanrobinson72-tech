@@ -10,5 +10,5 @@
  
 
 <h2>🤳Connect with me:</h2>
-[<img align="center" alt="Breyuan | LinkedIn" width="22px" src="https://www.linkedin.com/in/breyuan-robinson-9a158828b/" />][linkedin]
+[<img align="center" alt="Breyuan | LinkedIn" width="22px" src="https://www.linkedin.com/in/breyuan-robinson-9a158828b/" />]
 
